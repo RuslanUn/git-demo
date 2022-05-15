@@ -2,9 +2,3 @@
 2. Second string
 3. Third string
 4. Forth string
-
-12. First string
-22. Second string
-32. Third string
-42. Forth string
-__________________
