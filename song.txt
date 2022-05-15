@@ -1,4 +1,4 @@
-1. First String
+1. First string
 2. Second string
-3. Serd string
+3. Therd string
 4. Forth string
